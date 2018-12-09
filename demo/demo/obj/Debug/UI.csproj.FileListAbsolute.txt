@@ -1,0 +1,28 @@
+E:\vs2012 projects\demo\demo\bin\Debug\demo.exe
+E:\vs2012 projects\demo\demo\bin\Debug\demo.exe.config
+E:\vs2012 projects\demo\demo\bin\Debug\BLL.dll
+E:\vs2012 projects\demo\demo\bin\Debug\BLL.pdb
+E:\vs2012 projects\demo\demo\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\vs2012 projects\demo\demo\obj\Debug\UI.Form1.resources
+E:\vs2012 projects\demo\demo\obj\Debug\demo.Properties.Resources.resources
+E:\vs2012 projects\demo\demo\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\vs2012 projects\demo\demo\obj\Debug\demo.exe
+E:\vs2012 projects\demo\demo\obj\Debug\demo.pdb
+E:\vs2012 projects\demo\demo\bin\Debug\demo.pdb
+D:\vs2012 project\demo\demo\bin\Debug\demo.exe.config
+D:\vs2012 project\demo\demo\bin\Debug\demo.exe
+D:\vs2012 project\demo\demo\bin\Debug\demo.pdb
+D:\vs2012 project\demo\demo\obj\Debug\UI.Form1.resources
+D:\vs2012 project\demo\demo\obj\Debug\demo.Properties.Resources.resources
+D:\vs2012 project\demo\demo\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\vs2012 project\demo\demo\obj\Debug\demo.exe
+D:\vs2012 project\demo\demo\obj\Debug\demo.pdb
+D:\vs2012 project\demo\demo\obj\Debug\UI.csprojResolveAssemblyReference.cache
+H:\demo\demo\obj\Debug\UI.Form1.resources
+H:\demo\demo\obj\Debug\demo.Properties.Resources.resources
+H:\demo\demo\obj\Debug\UI.csproj.GenerateResource.cache
+H:\demo\demo\bin\Debug\demo.exe.config
+H:\demo\demo\bin\Debug\demo.exe
+H:\demo\demo\bin\Debug\demo.pdb
+H:\demo\demo\obj\Debug\demo.exe
+H:\demo\demo\obj\Debug\demo.pdb
