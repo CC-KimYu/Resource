@@ -1,0 +1,37 @@
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Form1.resources
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Properties.Resources.resources
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\Scheduler.csproj.GenerateResource.Cache
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\Scheduler.exe
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\Scheduler.pdb
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\bin\Debug\MySql.Data.dll
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Apache.NMS.ActiveMQ.dll
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Apache.NMS.dll
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Apache.NMS.pdb
+c:\users\administrator.pc-20140805xjxq\documents\visual studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\Administrator.PC-20140805XJXQ\Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Apache.NMS.xml
+C:\Users\Administrator.PC-20140805XJXQ\Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\Scheduler.csprojResolveAssemblyReference.cache
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Form1.resources
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Properties.Resources.resources
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.csproj.GenerateResource.Cache
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.exe
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.pdb
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\bin\Debug\CSkin.dll
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\bin\Debug\CSkin.xml
+E:\项目备份（2018-10-30）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.csprojResolveAssemblyReference.cache
+E:\项目备份（2018-12-23）管控系统\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+E:\项目备份（2018-12-23）管控系统\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+E:\项目备份（2018-12-23）管控系统\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+E:\项目备份（2018-12-23）管控系统\Scheduler\Scheduler\bin\Debug\CSkin.dll
+E:\项目备份（2018-12-23）管控系统\Scheduler\Scheduler\bin\Debug\CSkin.xml
+E:\项目备份（2018-12-23）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Form1.resources
+E:\项目备份（2018-12-23）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Properties.Resources.resources
+E:\项目备份（2018-12-23）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.csproj.GenerateResource.Cache
+E:\项目备份（2018-12-23）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.exe
+E:\项目备份（2018-12-23）管控系统\Scheduler\Scheduler\obj\x86\Debug\Scheduler.pdb

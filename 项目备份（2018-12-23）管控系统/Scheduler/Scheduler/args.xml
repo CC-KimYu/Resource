@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Args>
+  <DataBaseIP>172.16.73.89</DataBaseIP>
+  <DataBaseUsername>root</DataBaseUsername>
+  <DataBasePassword>root</DataBasePassword>
+  <ActiveMQServerIP>172.16.73.66</ActiveMQServerIP>
+  <FTPServerIP>172.16.73.66</FTPServerIP>
+  <FTPUsername>root</FTPUsername>
+  <FTPPassword>root</FTPPassword>
+  <LocalPath>C:/HLA</LocalPath>
+  <RTIServerIP>172.16.73.66</RTIServerIP>
+</Args>

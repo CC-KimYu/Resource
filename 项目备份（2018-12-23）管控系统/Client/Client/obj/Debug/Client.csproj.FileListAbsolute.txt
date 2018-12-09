@@ -1,0 +1,62 @@
+D:\vs2012 project\Client\Client\bin\Debug\Client.exe.config
+D:\vs2012 project\Client\Client\bin\Debug\Client.exe
+D:\vs2012 project\Client\Client\bin\Debug\Client.pdb
+D:\vs2012 project\Client\Client\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\vs2012 project\Client\Client\bin\Debug\Apache.NMS.dll
+D:\vs2012 project\Client\Client\bin\Debug\MySql.Data.dll
+D:\vs2012 project\Client\Client\bin\Debug\Apache.NMS.pdb
+D:\vs2012 project\Client\Client\bin\Debug\Apache.NMS.xml
+D:\vs2012 project\Client\Client\bin\Debug\Apache.NMS.ActiveMQ.pdb
+D:\vs2012 project\Client\Client\bin\Debug\Apache.NMS.ActiveMQ.xml
+D:\vs2012 project\Client\Client\obj\Debug\Client.exe
+D:\vs2012 project\Client\Client\obj\Debug\Client.pdb
+D:\vs2012 project\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\80492\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\80492\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\80492\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\80492\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\80492\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\80492\Desktop\Client\Client\bin\Debug\Apache.NMS.pdb
+C:\Users\80492\Desktop\Client\Client\bin\Debug\Apache.NMS.xml
+C:\Users\80492\Desktop\Client\Client\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\80492\Desktop\Client\Client\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\80492\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\项目备份（2018-10-10）\Client\Client\bin\Debug\Client.exe.config
+E:\项目备份（2018-10-10）\Client\Client\obj\Debug\Client.exe
+E:\项目备份（2018-10-10）\Client\Client\obj\Debug\Client.pdb
+E:\项目备份（2018-10-10）\Client\Client\bin\Debug\Client.exe
+E:\项目备份（2018-10-10）\Client\Client\bin\Debug\Client.pdb
+E:\项目备份（2018-10-10）\Client\Client\bin\Debug\Apache.NMS.pdb
+E:\项目备份（2018-10-10）\Client\Client\bin\Debug\Apache.NMS.xml
+E:\项目备份（2018-10-10）\Client\Client\bin\Debug\Apache.NMS.ActiveMQ.pdb
+E:\项目备份（2018-10-10）\Client\Client\bin\Debug\Apache.NMS.ActiveMQ.xml
+E:\项目备份（2018-10-10）\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\项目备份（2018-10-11）管控系统\Client\Client\bin\Debug\Client.exe.config
+E:\项目备份（2018-10-11）管控系统\Client\Client\obj\Debug\Client.exe
+E:\项目备份（2018-10-11）管控系统\Client\Client\obj\Debug\Client.pdb
+E:\项目备份（2018-10-11）管控系统\Client\Client\bin\Debug\Client.exe
+E:\项目备份（2018-10-11）管控系统\Client\Client\bin\Debug\Client.pdb
+E:\项目备份（2018-10-11）管控系统\Client\Client\bin\Debug\Apache.NMS.xml
+E:\项目备份（2018-10-15）管控系统\Client\Client\bin\Debug\Client.exe.config
+E:\项目备份（2018-10-15）管控系统\Client\Client\obj\Debug\Client.exe
+E:\项目备份（2018-10-15）管控系统\Client\Client\obj\Debug\Client.pdb
+E:\项目备份（2018-10-15）管控系统\Client\Client\bin\Debug\Client.exe
+E:\项目备份（2018-10-15）管控系统\Client\Client\bin\Debug\Client.pdb
+E:\项目备份（2018-10-15）管控系统\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\项目备份（2018-10-17）管控系统\Client\Client\bin\Debug\Client.exe.config
+E:\项目备份（2018-10-17）管控系统\Client\Client\obj\Debug\Client.exe
+E:\项目备份（2018-10-17）管控系统\Client\Client\obj\Debug\Client.pdb
+E:\项目备份（2018-10-17）管控系统\Client\Client\bin\Debug\Client.exe
+E:\项目备份（2018-10-17）管控系统\Client\Client\bin\Debug\Client.pdb
+E:\项目备份（2018-10-17）管控系统\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\项目备份（2018-10-30）管控系统\Client\Client\bin\Debug\Client.exe.config
+E:\项目备份（2018-10-30）管控系统\Client\Client\obj\Debug\Client.exe
+E:\项目备份（2018-10-30）管控系统\Client\Client\obj\Debug\Client.pdb
+E:\项目备份（2018-10-30）管控系统\Client\Client\bin\Debug\Client.exe
+E:\项目备份（2018-10-30）管控系统\Client\Client\bin\Debug\Client.pdb
+E:\项目备份（2018-10-30）管控系统\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\项目备份（2018-12-23）管控系统\Client\Client\bin\Debug\Client.exe.config
+E:\项目备份（2018-12-23）管控系统\Client\Client\obj\Debug\Client.exe
+E:\项目备份（2018-12-23）管控系统\Client\Client\obj\Debug\Client.pdb
+E:\项目备份（2018-12-23）管控系统\Client\Client\bin\Debug\Client.exe
+E:\项目备份（2018-12-23）管控系统\Client\Client\bin\Debug\Client.pdb

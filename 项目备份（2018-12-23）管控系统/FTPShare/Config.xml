@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<Scenario>
+  <GlobalInfo>
+    <ScenarioID>6</ScenarioID>
+    <FederationName>test</FederationName>
+    <MaxStepCount>10000</MaxStepCount>
+    <StepLength>0.1</StepLength>
+    <FOM>FOM.xml</FOM>
+    <LocalSettingDesignator>
+    </LocalSettingDesignator>
+    <PublishInteractionClassNames>
+    </PublishInteractionClassNames>
+    <SubscribeInteractionClassNames>
+    </SubscribeInteractionClassNames>
+    <SynchronizationPoints>
+    </SynchronizationPoints>
+  </GlobalInfo>
+  <ModelInfo>
+    <ModelExeConfig>
+      <FederateName>M1-B</FederateName>
+      <Is_CombineMember>0</Is_CombineMember>
+      <FOM />
+      <ModelID>1</ModelID>
+      <ModelDBID>2</ModelDBID>
+      <ModelName>B</ModelName>
+      <ModelDLL>/model</ModelDLL>
+      <LocalSettingDesignator>
+      </LocalSettingDesignator>
+      <IsTimeRegulating>1</IsTimeRegulating>
+      <IsTimeConstrained>1</IsTimeConstrained>
+      <Lookahead>1</Lookahead>
+      <PublishObjectClassName />
+      <SubscribeObjectClassNames />
+      <PublishInteractionClassNames />
+      <SubscribeInteractionClassNames />
+      <SynchronizationPoints />
+      <InputSources>
+        <InputSource>2</InputSource>
+        <InputSource>3</InputSource>
+      </InputSources>
+      <EventReceivers/>
+      <InitParameters>
+        <Parameter>
+          <Name>noinform</Name>
+          <Label>
+          </Label>
+          <Value>
+            <Type>noinform</Type>
+            <Value>0</Value>
+          </Value>
+          <Physicsunit>
+          </Physicsunit>
+        </Parameter>
+      </InitParameters>
+      <InputParameters>
+        <Parameter>
+          <Name>noinform</Name>
+          <Physics_Unit>
+          </Physics_Unit>
+          <Coefficient>
+          </Coefficient>
+          <InterfaceID>0</InterfaceID>
+          <From>2-0</From>
+          <To>1-0</To>
+          <Value>
+            <Type>noinform</Type>
+            <Value>0</Value>
+          </Value>
+        </Parameter>
+        <Parameter>
+          <Name>noinform</Name>
+          <Physics_Unit>
+          </Physics_Unit>
+          <Coefficient>
+          </Coefficient>
+          <InterfaceID>1</InterfaceID>
+          <From>3-0</From>
+          <To>1-1</To>
+          <Value>
+            <Type>noinform</Type>
+            <Value>0</Value>
+          </Value>
+        </Parameter>
+      </InputParameters>
+      <OutputParameters>
+        <Parameter>
+          <Name>noinform</Name>
+          <Physics_Unit>
+          </Physics_Unit>
+          <InterfaceID>0</InterfaceID>
+        </Parameter>
+      </OutputParameters>
+    </ModelExeConfig>
+    <ModelExeConfig>
+      <FederateName>M2-C</FederateName>
+      <Is_CombineMember>0</Is_CombineMember>
+      <FOM />
+      <ModelID>2</ModelID>
+      <ModelDBID>3</ModelDBID>
+      <ModelName>C</ModelName>
+      <ModelDLL>/model</ModelDLL>
+      <LocalSettingDesignator>
+      </LocalSettingDesignator>
+      <IsTimeRegulating>1</IsTimeRegulating>
+      <IsTimeConstrained>1</IsTimeConstrained>
+      <Lookahead>1</Lookahead>
+      <PublishObjectClassName />
+      <SubscribeObjectClassNames />
+      <PublishInteractionClassNames />
+      <SubscribeInteractionClassNames />
+      <SynchronizationPoints />
+      <InputSources>
+        <InputSource>1</InputSource>
+      </InputSources>
+      <EventReceivers />
+      <InitParameters>
+        <Parameter>
+          <Name>noinform</Name>
+          <Label>
+          </Label>
+          <Value>
+            <Type>noinform</Type>
+            <Value>0</Value>
+          </Value>
+          <Physicsunit>
+          </Physicsunit>
+        </Parameter>
+      </InitParameters>
+      <InputParameters>
+        <Parameter>
+          <Name>noinform</Name>
+          <Physics_Unit>
+          </Physics_Unit>
+          <Coefficient>
+          </Coefficient>
+          <InterfaceID>0</InterfaceID>
+          <From>1-0</From>
+          <To>2-0</To>
+          <Value>
+            <Type>noinform</Type>
+            <Value>0</Value>
+          </Value>
+        </Parameter>
+      </InputParameters>
+      <OutputParameters>
+        <Parameter>
+          <Name>noinform</Name>
+          <Physics_Unit>
+          </Physics_Unit>
+          <InterfaceID>0</InterfaceID>
+        </Parameter>
+      </OutputParameters>
+    </ModelExeConfig>
+    <ModelExeConfig>
+      <FederateName>M3-C</FederateName>
+      <Is_CombineMember>0</Is_CombineMember>
+      <FOM />
+      <ModelID>3</ModelID>
+      <ModelDBID>3</ModelDBID>
+      <ModelName>C</ModelName>
+      <ModelDLL>/model</ModelDLL>
+      <LocalSettingDesignator>
+      </LocalSettingDesignator>
+      <IsTimeRegulating>1</IsTimeRegulating>
+      <IsTimeConstrained>1</IsTimeConstrained>
+      <Lookahead>1</Lookahead>
+      <PublishObjectClassName />
+      <SubscribeObjectClassNames />
+      <PublishInteractionClassNames />
+      <SubscribeInteractionClassNames />
+      <SynchronizationPoints />
+      <InputSources>
+        <InputSource>1</InputSource>
+      </InputSources>
+      <EventReceivers />
+      <InitParameters>
+        <Parameter>
+          <Name>noinform</Name>
+          <Label>
+          </Label>
+          <Value>
+            <Type>noinform</Type>
+            <Value>0</Value>
+          </Value>
+          <Physicsunit>
+          </Physicsunit>
+        </Parameter>
+      </InitParameters>
+      <InputParameters>
+        <Parameter>
+          <Name>noinform</Name>
+          <Physics_Unit>
+          </Physics_Unit>
+          <Coefficient>
+          </Coefficient>
+          <InterfaceID>0</InterfaceID>
+          <From>1-0</From>
+          <To>3-0</To>
+          <Value>
+            <Type>noinform</Type>
+            <Value>0</Value>
+          </Value>
+        </Parameter>
+      </InputParameters>
+      <OutputParameters>
+        <Parameter>
+          <Name>noinform</Name>
+          <Physics_Unit>
+          </Physics_Unit>
+          <InterfaceID>0</InterfaceID>
+        </Parameter>
+      </OutputParameters>
+    </ModelExeConfig>
+  </ModelInfo>
+</Scenario>
