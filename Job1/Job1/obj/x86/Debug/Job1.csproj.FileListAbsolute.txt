@@ -1,0 +1,4 @@
+D:\Visual Studio 2010 Projects\Job1\Job1\bin\Debug\Job1.exe
+D:\Visual Studio 2010 Projects\Job1\Job1\bin\Debug\Job1.pdb
+D:\Visual Studio 2010 Projects\Job1\Job1\obj\x86\Debug\Job1.exe
+D:\Visual Studio 2010 Projects\Job1\Job1\obj\x86\Debug\Job1.pdb

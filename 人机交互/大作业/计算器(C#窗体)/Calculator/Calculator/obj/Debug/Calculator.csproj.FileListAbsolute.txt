@@ -1,0 +1,21 @@
+D:\vs2012 project\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\vs2012 project\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\vs2012 project\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\vs2012 project\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\vs2012 project\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\vs2012 project\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\vs2012 project\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\vs2012 project\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\vs2012 project\Calculator\Calculator\obj\Debug\Calculator.pdb
+I:\人机交互\大作业\Calculator\Calculator\bin\Debug\Calculator.exe.config
+I:\人机交互\大作业\Calculator\Calculator\obj\Debug\Calculator.exe
+I:\人机交互\大作业\Calculator\Calculator\obj\Debug\Calculator.pdb
+H:\人机交互\大作业\Calculator\Calculator\bin\Debug\Calculator.exe.config
+H:\人机交互\大作业\Calculator\Calculator\obj\Debug\Calculator.exe
+H:\人机交互\大作业\Calculator\Calculator\obj\Debug\Calculator.pdb
+H:\人机交互\大作业\Calculator\Calculator\bin\Debug\Calculator.exe
+H:\人机交互\大作业\Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\人机交互\大作业\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+H:\人机交互\大作业\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+H:\人机交互\大作业\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\人机交互\大作业\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
